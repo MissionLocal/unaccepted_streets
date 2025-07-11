@@ -1,6 +1,6 @@
 # San Francisco's unaccepted streets
 
-Here's the data behind out story [San Francisco’s forgotten roads: Bayview has 1/4 of city’s ‘unaccepted streets’](https://missionlocal.org/2025/07/sf-bayview-unaccepted-streets/)
+Here's the data behind our story [San Francisco’s forgotten roads: Bayview has 1/4 of city’s ‘unaccepted streets’](https://missionlocal.org/2025/07/sf-bayview-unaccepted-streets/)
 
 `analysis.ipynb` contains our analysis of unaccepted streets data in San Francisco. 
 
