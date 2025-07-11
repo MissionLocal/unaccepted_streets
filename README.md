@@ -13,6 +13,8 @@ Here's the data behind out story [San Francisco’s forgotten roads: Bayview has
   - `length_overview` contains a summary table with the length of unaccepted streets per district (and compared to the total length of streets in each district)
   - `output.geojson` contains the data we used for mapping (maps below).
  
+For any questions, please email kelly@missionlocal.com
+ 
 ![image](https://newspack-missionlocal.s3.amazonaws.com/mission/wp-content/uploads/2025/07/district_10_mobile.png)
 
 ![image](https://newspack-missionlocal.s3.amazonaws.com/mission/wp-content/uploads/2025/07/sf.png)
