@@ -12,6 +12,10 @@ Here's the data behind our story [San Francisco’s forgotten roads: Bayview has
 `output` contains our cleaned data files
 - `length_overview` contains a summary table with the length of unaccepted streets per district (and compared to the total length of streets in each district)
 - `output.geojson` contains the data we used for mapping (maps below).
+
+Notes: 
+- 12 street segments from the DPW data could not be geolocated. These have been excluded.
+- The totals included in the output summary table (which we referenced in the story) does not include some "paper" streets, as these fall outside the supervisor district boundaries. 
  
 For any questions, please email kelly@missionlocal.com
  
