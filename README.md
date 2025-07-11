@@ -2,7 +2,7 @@
 
 Here's the data behind our story [San Francisco’s forgotten roads: Bayview has 1/4 of city’s ‘unaccepted streets’](https://missionlocal.org/2025/07/sf-bayview-unaccepted-streets/)
 
-`analysis.ipynb` contains our analysis of unaccepted streets data in San Francisco. 
+`dpw-data.ipynb` contains our analysis of unaccepted streets data in San Francisco. 
 
 `data` contains the raw data files: 
 - `dpw_data.csv` contains the most up-to-date records of every unaccepted street in San Francisco, which are streets that have not been adopted as city or state roads. We obtained this dataset on July 10, 2025 via a records request. 
